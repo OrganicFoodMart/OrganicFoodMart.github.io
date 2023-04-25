@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html >
+	<head >
+		<meta charset="utf-8">
+		<title> OrganicFoodMart - individual Product page </title >
+		<link rel="stylesheet" href="OrganicFoodMart.css">
+ 	</ head>
+ 	<body >
+ 		<a href="index.html">ORGANIC FOOD MART</a>
+ 		<h3> Products </h3 >
+	</body >
+ </html >
